@@ -5,6 +5,8 @@
 # Created on: 2021-08-31 10:27:43
 # -------------------------------------------------------------------------------------------------------------
 
+# Notice: Set Qgis project [EPSG:3857]!!!
+
 # Import model
 import os
 import processing
