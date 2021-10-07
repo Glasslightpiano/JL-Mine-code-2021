@@ -7,7 +7,7 @@
 
 # Notice: Set Qgis project [EPSG:3857]!!!
 
-# Import model
+# Import modules
 import os
 import processing
 
