@@ -5,7 +5,7 @@
 # Created on: 2021-08-27 15:53:05
 # -------------------------------------------------------------------
 
-# Import model.
+# Import modules.
 import csv
 import os
 
